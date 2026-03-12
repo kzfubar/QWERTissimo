@@ -1,4 +1,4 @@
-# Instrument
+# QWERTissimo
 
 A keyboard-based music synthesizer built with Python. Play notes and chords using your computer keyboard with real-time audio synthesis.
 
