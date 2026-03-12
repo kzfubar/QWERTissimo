@@ -1,0 +1,11 @@
+A card game
+
+SinglePlayer Variant
+
+1 vs 1
+Trick taking game
+
+Your opponent plays their cards from left to right,
+they follow trick taking rules, so they must play a club if I play a club, otherwise they play the leftmost card
+
+The goal of this game is to take X tricks, where X is configurable
